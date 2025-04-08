@@ -7,8 +7,7 @@ class hero{
 public void getinfo()
 {
     System.out.println("the information of the hero is given belpow.....");
-    System.out.println(this.health);
-}
+    System.out.println(this.health);    }
 }
 public class OOPS1{
 public static void main(String args[]){
